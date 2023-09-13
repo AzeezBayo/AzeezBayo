@@ -38,7 +38,7 @@
 
 - **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript
 - **Frameworks:** ⚛️ React, 🚀 Express.js, 🐍 FastAPI, 🌪️ TailwindCSS, 🔺 Next.js, Django 
-- **Databases:** 🗃️ SQLite, 🍃 MongoDB, 🚀 Redis
+- **Databases:** 🗃️ SQLite, 🍃 MongoDB, 🚀 Redis. PostgreSQL
 - **Tools:** 🐙 Git, 📦 Webpack, 📦 npm, 🐿️ yarn, 🌱 pnpm, 🐳 Docker, 🚀 Vite
 - **Other:** 🌐 RESTful APIs, 📈 JSON-RPC APIs, ☁️ AZURE, ☁️ AWS, 🚀 Heroku, 🏃‍♀️ Agile development 
 
