@@ -68,6 +68,8 @@ Here are a few examples of some projects I've worked on:
 ## 🏆 Certifications
 
 - **Udacity full stack web development:** Udacity (2022)
+- **ALX Software engineering Certification:** ALX AFRICA (2023)
+
 
 ## 🌐 Social Links
 
