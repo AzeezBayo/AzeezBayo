@@ -36,7 +36,7 @@
 
 ## 💻 Skills
 
-- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript, ruby
+- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript, Ruby
 - **Frameworks:** ⚛️ React, 🚀 Express.js, 🐍 FastAPI, 🌪️ TailwindCSS, 🔺 Next.js, Django 
 - **Databases:** 🗃️ SQLite, 🍃 MongoDB, 🚀 Redis, PostgreSQL
 - **Tools:** 🐙 Git, 📦 Webpack, 📦 npm, 🐿️ yarn, 🌱 pnpm, 🐳 Docker
