@@ -1,6 +1,6 @@
 # Hi there, I'm Azeez Bayo 👋
 
-🚀 I'm a software developer with 8 years of experience building web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+🚀 I'm a software engineer with 7 years of experience building web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
 <div align = "center">
   
@@ -36,15 +36,15 @@
 
 ## 💻 Skills
 
-- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript
+- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript, ruby
 - **Frameworks:** ⚛️ React, 🚀 Express.js, 🐍 FastAPI, 🌪️ TailwindCSS, 🔺 Next.js, Django 
 - **Databases:** 🗃️ SQLite, 🍃 MongoDB, 🚀 Redis, PostgreSQL
 - **Tools:** 🐙 Git, 📦 Webpack, 📦 npm, 🐿️ yarn, 🌱 pnpm, 🐳 Docker
-- **Other:** 🌐 RESTful APIs, 📈 JSON-RPC APIs, ☁️ AZURE, ☁️ AWS, 🚀 Heroku, 🏃‍♀️ Agile development 
+- **Other:** 🌐 RESTful APIs, 📈 GraphQL, ☁️ AZURE, ☁️ AWS, 🚀 Heroku, 🏃‍♀️ Agile development 
 
 ## 🔨 Projects
 
-Here are a few examples of some projects I've worked on:
+Here are a few of some projects I've worked on and currently working on:
 
 - **HydraTest** - A web app that faciliates online exams; choose a course, write the exam and get graded (https://hydratest.vercel.app).
 - **Blinkr** - Blinkr is a short link personalization tool; shorten long urls, even with custom shortlinks (https://blinkr.azurewebsites.net).
