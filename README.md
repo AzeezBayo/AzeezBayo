@@ -36,7 +36,7 @@
 
 ## 💻 Skills
 
-- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript, ruby
+- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript, Ruby
 - **Frameworks:** ⚛️ React, 🚀 Express.js, 🐍 FastAPI, 🌪️ TailwindCSS, 🔺 Next.js, Django 
 - **Databases:** 🗃️ SQLite, 🍃 MongoDB, 🚀 Redis, PostgreSQL
 - **Tools:** 🐙 Git, 📦 Webpack, 📦 npm, 🐿️ yarn, 🌱 pnpm, 🐳 Docker
@@ -45,14 +45,14 @@
 ## 🔨 Projects
 
 Here are a few of some projects I've worked on and currently working on:
-
-- **HydraTest** - A web app that faciliates online exams; choose a course, write the exam and get graded (https://hydratest.vercel.app).
-- **Blinkr** - Blinkr is a short link personalization tool; shorten long urls, even with custom shortlinks (https://blinkr.azurewebsites.net).
+- **Verificare** - AI Powered centralized digital ID management software.--Ongoing http://verificare.me/
 - **SafeProtocol** - A token presale platform with advanced features (https://safeprotocol.co).
 - **Clockify** - A three in one time keeping app; a timer, a clock, and a stopwatch (https://clockify-sable.vercel.app)
 
 ## 🎓 Experience
 
+- **Tera:** API Engineer (2023)
+<!--     - Description of responsibilities and achievements. -->
 - **BuzzBite Media:** Backend Engineer (2023)
 <!--     - Description of responsibilities and achievements. -->
 - **Plus2:** Full stack Engineer (2022 till date)
@@ -69,6 +69,7 @@ Here are a few of some projects I've worked on and currently working on:
 
 - **Udacity full stack web development:** Udacity (2022)
 - **ALX Software engineering Certification:** ALX AFRICA (2023)
+- - **Scrima AI engineering:** Presently a student
 
 
 ## 🌐 Social Links
