@@ -1,6 +1,6 @@
 # Hi there, I'm Azeez Bayo 👋
 
-🚀 I'm a software engineer with 7 years of experience building web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+🚀 I'm a software engineer with several years of experience building web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
 <div align = "center">
   
