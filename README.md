@@ -37,7 +37,7 @@ Here are a few of some projects I've worked on and currently working on:
 
 - **Udacity full stack web development:** Udacity (2022)
 - **ALX Software engineering Certification:** ALX AFRICA (2023)
-- **Scrima AI engineering:** Presently a student
+- **Code.org AI engineering:** Presently a student
 
 
 ## 🌐 Social Links
