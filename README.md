@@ -18,13 +18,6 @@ I am currently working on a Government based AI powered software. Here is the li
 
 
 ## <b> `Tech Stack:`  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
-
-- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript, Ruby
-- **Frameworks:** ⚛️ React, 🚀 Express.js, 🐍 FastAPI, 🌪️ TailwindCSS, 🔺 Next.js, Django 
-- **Databases:** 🗃️ SQLite, 🍃 MongoDB, 🚀 Redis, PostgreSQL
-- **Tools:** 🐙 Git, 📦 Webpack, 📦 npm, 🐿️ yarn, 🌱 pnpm, 🐳 Dockr
-- **Other:** 🌐 RESTful APIs, 📈 GraphQL, ☁️ AZURE, ☁️ AWS, 🚀 Heroku, 🏃‍♀️ Agile development 
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,c,react,angular,ts,nodejs,express,django,mysql,mongodb,postgresql,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
