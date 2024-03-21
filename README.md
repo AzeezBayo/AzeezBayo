@@ -26,7 +26,6 @@ I am currently working on a Government based AI powered software. Here is the li
 
 <p align="left">
   <a href="https://skillicons.dev">
-  
     <img src="https://skillicons.dev/icons?i=python,js,c,react,angular,ts,nodejs,express,django,mysql,mongodb,postgresql,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
   </a>
 </p>
