@@ -5,7 +5,6 @@
 
 #
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - ** I'm an AI and software engineer with several years of experience building AI powered web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
