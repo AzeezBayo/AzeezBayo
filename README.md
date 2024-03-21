@@ -1,9 +1,5 @@
 <div align="left">
 
-  ![](https://komarev.com/ghpvc/?username=besthor&style=plastic&color=red&label=PROFILE+VIEWS)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+guys!+Pleased+to+meet+you;My+names+Azeez+Besthor%2Can+Adept+Back-End+Dev;Software+Graduate+Intern+%40ALX_Africa;Thanks+for+dropping+by)](https://git.io/typing-svg)
-
 ## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
 <p align="left">
@@ -30,6 +26,13 @@ I am currently working on a Government based AI powered software. Here is the li
 
 
 ## <b> `Tech Stack:`  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+
+- **Languages:** 💻 JavaScript, 🌐 HTML, 🎨 CSS, 🐍 Python, 💼 Typescript, Ruby
+- **Frameworks:** ⚛️ React, 🚀 Express.js, 🐍 FastAPI, 🌪️ TailwindCSS, 🔺 Next.js, Django 
+- **Databases:** 🗃️ SQLite, 🍃 MongoDB, 🚀 Redis, PostgreSQL
+- **Tools:** 🐙 Git, 📦 Webpack, 📦 npm, 🐿️ yarn, 🌱 pnpm, 🐳 Dockr
+- **Other:** 🌐 RESTful APIs, 📈 GraphQL, ☁️ AZURE, ☁️ AWS, 🚀 Heroku, 🏃‍♀️ Agile development 
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,c,react,angular,ts,nodejs,express,django,mysql,mongodb,postgresql,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
