@@ -1,6 +1,6 @@
 <div align="left">
 
-## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
+## <b>`Let's Collaborate`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
 <p align="left">
 <a href="https://wa.me/message/2MK7SAUB7NU2O1
@@ -66,3 +66,8 @@ I am currently working on a Government based AI powered software. Here is the li
 - **Udacity full stack web development:** Udacity (2022)
 - **ALX Software engineering Certification:** ALX AFRICA (2023)
 - **Nvidia developer program. Generative AI and LLM:** Presently a student
+
+## 🌐 Social Links
+- [LinkedIn](https://www.linkedin.com/in/azeezbayo)
+- [Twitter](https://twitter.com/RealAzeezBayo)
+- [Whatsapp](https://wa.me/message/2MK7SAUB7NU2O1)
