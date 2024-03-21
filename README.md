@@ -33,15 +33,15 @@ I am currently working on a Government based AI powered software. Here is the li
 
 <p align="center">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Besthor&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Besthor&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzeezBayo&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=AzeezBayo&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </p> 
 
 <div align="center">
     <table>
       <tr>
         <td>
-          <a href="http://www.github.com/Besthor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Besthor&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+          <a href="http://www.github.com/AzeezBayo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Besthor&stroke=ffffff&background=188f5f&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
          </td>
       </tr>
   </table>
