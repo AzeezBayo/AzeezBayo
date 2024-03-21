@@ -1,16 +1,7 @@
 <div align="left">
 
 ## <b>`Let's Collaborate`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
-<p > 
-<p align="left">
-<a href="https://wa.me/message/2MK7SAUB7NU2O1
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="8074113131" height="40" width="50" /></a>
 
-<a href="https://www.linkedin.com/in/azeezbayo
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azeezbayo" height="40" width="50" /></a>
-
-<a href="https://twitter.com/RealAzeezBayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RealAzeezBayo" height="40" width="50" /></a>
-</p>
 
 #
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
