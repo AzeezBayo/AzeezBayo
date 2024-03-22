@@ -29,7 +29,7 @@ class Queries(object):
         self.username = username
         self.access_token = access_token
         self.session = session
-        self.semaphore = asyncio.semaphore(max_connections)
+        self.semaphore = asyncio.Semaphore(max_connections)
 
     async def query(self, generated_query: str) -> Dict:
         """
