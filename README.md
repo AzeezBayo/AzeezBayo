@@ -13,7 +13,7 @@
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - I'm an AI and software engineer with several years of experience building AI powered web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 - I transverse from being a data analyst to a software engineer, from software engineering to Site reliability engineering, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
-- **I have worked on different projects with different expertise from different fields.
+- I have worked on different projects with different expertise from different fields.
 I am currently working on a Government based AI powered software. Here is the link to the project's concept [Verificare](https://verificare.me/).
 - **For collaboration, you can reach me on** ***azeez.bayo@outlook.com***
 
