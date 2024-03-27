@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AzeezBayo&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+gang!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2Can+Adept+Back-End+Dev;AI+and+Software+Engineer+%40Verifcare.me;Thanks+for+stopping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+gang!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2Can+Dev;AI+and+Software+Engineer+%40Verifcare.me;Thanks+for+stopping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Collaborate`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 
