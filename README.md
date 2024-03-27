@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AzeezBayo&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+guys!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2C;AI+and+Software+Engineer+%40Verifcare.me;Thanks+for+stopping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+guys!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2C;AI+and+Software+Engineer+%40Verificare.me;Thanks+for+stopping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Collaborate`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 
@@ -12,7 +12,7 @@
 
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 - I'm an AI and software engineer with several years of experience building AI powered web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
-- I transverse from being a data analyst to a software engineer, from software engineering to Site reliability engineering, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
+- I transverses from being a data analyst to software development, up to Site reliability engineering, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
 - I have worked on different projects with different expertise from different fields.
 I am currently working on a Government based AI powered software. Here is the link to the project's concept [Verificare](https://verificare.me/).
 - **For collaboration, you can reach me on** ***azeez.bayo@outlook.com***
