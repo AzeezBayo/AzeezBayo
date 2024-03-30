@@ -11,7 +11,7 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- I'm an AI and software engineer with several years of experience building AI powered web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+- I'm an AI and software engineer with several years of experience building scalable web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 - I transverses from being a data analyst to software development, up to Site reliability engineering, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
 - I have worked on different projects with different expertise from different fields.
 I am currently working on a Government based AI powered software. Here is the link to the project's concept [Verificare](https://verificare.me/).
