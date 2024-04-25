@@ -53,7 +53,7 @@ I am currently working on a Government based AI powered software. Here is the li
 
 - **Udacity full stack web development:** Udacity (2022)
 - **ALX Software engineering Certification:** ALX AFRICA (2023)
-- **Nvidia developer program. Generative AI and LLM:** Presently a student
+- **Nvidia developer program. Generative AI and multimodal model:** Presently a student
 
 ## 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/azeezbayo)
