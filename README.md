@@ -52,7 +52,7 @@ I am currently working on a quantum AI powered project. Here is the link to the 
 
 ## 🏆 Certifications
 
-- **ALX Software engineering Certification:** 
+- **ALX Software engineering Certification** 
 - **CISCO Ethical Hacking Certification**
 - **Nvidia developer program. Generative AI and multimodal model:** Presently a student
 - **UILISA Ambassador, University of Ibadan**
