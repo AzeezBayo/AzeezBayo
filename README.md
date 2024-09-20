@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AzeezBayo&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+guys!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2C;AI+and+Software+Engineer+%40Verificare.me;Thanks+for+stopping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+guys!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2C;Ethical+Hacker+and+Software+Engineer+%40Verificare.africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Collaborate`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 
@@ -24,7 +24,7 @@ I am currently working on a quantum AI powered project. Here is the link to the 
 ## <b> `Tech Stack:`  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,next,c,c++,react,angular,ts,nodejs,express,flask,django,mysql,mongodb,postgresql,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,js,next,c,react,angular,ts,nodejs,express,flask,django,mysql,mongodb,postgresql,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
   </a>
 </p>
 
