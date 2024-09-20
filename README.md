@@ -11,10 +11,11 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- I'm an AI and software engineer with several years of experience building scalable web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+- I'm an Ethical hacker and software engineer with several years of experience building scalable web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 - I transverses from being a data analyst to software development, up to Site reliability engineering, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
+- I started in 2015 as a data analytics expert at University of Ibadan Laboratory for Inter-discplinary Statistical analysis (UI-LISA), Department of Statistics, University of Ibadan.
 - I have worked on different projects with different expertise from different fields.
-I am currently working on a Government based AI powered software. Here is the link to the project's concept [Verificare](https://verificare.me/).
+I am currently working on a quantum AI powered project. Here is the link to the project's landing page [Verificare](https://verificare.africa/).
 - **For collaboration, you can reach me on** ***azeez.bayo@outlook.com***
 
 
@@ -23,7 +24,7 @@ I am currently working on a Government based AI powered software. Here is the li
 ## <b> `Tech Stack:`  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,react,angular,ts,nodejs,express,flask,django,mysql,mongodb,postgresql,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,js,next,c,c++,react,angular,ts,nodejs,express,flask,django,mysql,mongodb,postgresql,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
   </a>
 </p>
 
@@ -51,9 +52,10 @@ I am currently working on a Government based AI powered software. Here is the li
 
 ## 🏆 Certifications
 
-- **Udacity full stack web development:** Udacity (2022)
-- **ALX Software engineering Certification:** ALX AFRICA (2023)
+- **CISCO Ethical Hacking Certification**
+- **ALX Software engineering Certification:** 
 - **Nvidia developer program. Generative AI and multimodal model:** Presently a student
+- **UILISA Ambassador, University of Ibadan**
 
 ## 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/azeezbayo)
