@@ -11,11 +11,11 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- I'm an Ethical hacker and software engineer with several years of experience building scalable web and mobile applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
-- I transverses from being a data analyst to software development, up to Site reliability engineering, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
+- I'm an Solutions architect with several years of experience building scalable softwares. I'm passionate about sustainable enabling environment.
+- I transverses from being a data analyst to software development, up to solution architectectural design, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
 - I started in 2015 as a data analytics expert at University of Ibadan Laboratory for Inter-discplinary Statistical analysis (UI-LISA), Department of Statistics, University of Ibadan.
 - I have worked on different projects with different expertise from different fields.
-I am currently working on a quantum AI powered project. Here is the link to the project's landing page [Verificare](https://verificare.africa/).
+I am currently working on a decentralized data pipeline built on artificial intelligence. Here is the link to the project's landing page [Verificare](https://verificare.africa/).
 - **For collaboration, you can reach me on** ***azeez.bayo@outlook.com***
 
 
