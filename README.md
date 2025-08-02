@@ -11,7 +11,7 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- I'm an Solutions architect with several years of experience building scalable softwares. I'm passionate about sustainable enabling environment.
+- I'm an Solutions architect with several years of experience building scalable softwares. I'm passionate about providing sustainable enabling environment.
 - I transverses from being a data analyst to software development, up to solution architectectural design, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
 - I started in 2015 as a data analytics expert at University of Ibadan Laboratory for Inter-discplinary Statistical analysis (UI-LISA), Department of Statistics, University of Ibadan.
 - I have worked on different projects with different expertise from different fields.
