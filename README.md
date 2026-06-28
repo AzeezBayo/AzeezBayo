@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AzeezBayo&style=plastic&color=red&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+guys!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2C;Solutions+architect+%40Verificare.africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&duration=2000&pause=1500&color=15C50F&background=194C6900&width=440&height=55&lines=Hey+guys!+Pleased+to+meet+you;My+names+are+Azeez+Bayo%2C;System+architect+%40IntaOps.io;Thanks+for+stopping+by)](https://git.io/typing-svg)
 
 ## <b>`Let's Collaborate`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 
@@ -11,11 +11,11 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Brief details about me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- I'm an Solutions architect with several years of experience building scalable softwares. I'm passionate about providing sustainable enabling environment.
-- I transverses from being a data analyst to software development, up to solution architectectural design, now I'm powering my skills with artificial intelligence.**I'm currently a member of Nvidia** developer program. 
+- I'm a system architect with several years of experience building scalable softwares. I'm passionate about providing sustainable enabling environment.
+- I transverses from being a data analyst to software development, up to system architect, now I'm powering my skills with artificial intelligence.
 - I started my career in 2015 as a data analytics expert at University of Ibadan Laboratory for Inter-discplinary Statistical analysis (UI-LISA), Department of Statistics, University of Ibadan.
 - I have worked on different projects with different expertise from different fields.
-I am currently working on a decentralized data pipeline built on artificial intelligence and blockchain technology. Here is the link to the project's landing page [Verificare](https://www.verificare.africa/).
+I am currently working on a decentralized data interoperability project built on blockchain technology. Here is the link to the project's landing page [IntaOps](https://www.intaops.io/).
 - **For collaboration, you can reach me on** ***azeez.bayo@outlook.com***
 
 
@@ -54,7 +54,6 @@ I am currently working on a decentralized data pipeline built on artificial inte
 
 - **ALX Software engineering Certification** 
 - **CISCO Ethical Hacking Certification**
-- **Nvidia developer program. Generative AI and multimodal model:** Presently a student
 - **UILISA Ambassador, University of Ibadan**
 
 ## 🌐 Social Links
