@@ -15,7 +15,8 @@
 - I transverses from being a data analyst to software development, up to system architect, now I'm powering my skills with artificial intelligence.
 - I started my career in 2015 as a data analytics expert at University of Ibadan Laboratory for Inter-discplinary Statistical analysis (UI-LISA), Department of Statistics, University of Ibadan.
 - I have worked on different projects with different expertise from different fields.
-I am currently working on a decentralized data interoperability project built on blockchain technology. Here is the link to the project's landing page [IntaOps](https://www.intaops.io/).
+I am currently working on a decentralized data interoperability project built on blockchain technology. 
+<!-- Here is the link to the project's landing page [IntaOps](https://www.intaops.io/). -->
 - **For collaboration, you can reach me on** ***azeez.bayo@outlook.com***
 
 
